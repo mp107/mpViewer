@@ -1,0 +1,19 @@
+mpViewer
+Changelog:
+Ver 0.1:
+	Initial version
+
+Ver 0.2:
+	fixed Google issues
+
+Ver 0.21:
+	fixed issues with Google's mobile version of page
+
+Ver 0.22:
+	Fix for forums results
+
+Ver 0.3:
+	Final fixes for Google
+
+Ver 0.4:
+	Detection fixes and a it of optimalization

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="" version="0.51" href="">
+  <name>mpViewer</name>
+  <author href="">mp107</author>
+  <icon src="icon.png"/>
+  <access origin="*"/>
+  <description xml:lang="en">Preview pdf, doc, docx, ppt, pptx, xls, xlsx, odt, pps, pages, ai, psd, dxf, svg, eps, ps, ttf, xps files in the browser. The extension allows the user to open a files with Google Docs, Zoho Sheet Viewer or Samurajdata Viewer (depending on filetype). This extension is based on addon Documents preview version 1.1 developed by prelud.</description>
+</widget>
