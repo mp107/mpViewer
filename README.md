@@ -7,3 +7,6 @@ This extension is based on addon Documents preview version 1.1 developed by prel
 ### How it works?
 After clicking on the link to a supported file it shows up an alert with selection between downloading file and viewing in the browser. It can also ask about which program we want to use if the file can be opened by two of them.
 
+
+I am not affiliated with any of said companies.
+If you are a represant of some of those companies and want these materials to disappear please contact with me on e-mail: mp107@10g.pl. I reserve 72h for an answer and removing it (if requested).
