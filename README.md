@@ -9,4 +9,4 @@ After clicking on the link to a supported file it shows up an alert with selecti
 
 
 I am not affiliated with any of said companies.
-If you are a represant of some of those companies and want these materials to disappear please contact with me on e-mail: mp107@10g.pl. I reserve 72h for an answer and removing it (if requested).
+If you are a represant of some of those companies and want these materials to disappear please contact with me on e-mail: mp107/at/10g.pl. I reserve 72h for an answer and removing it (if requested).
