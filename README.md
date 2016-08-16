@@ -1,7 +1,7 @@
 # mpViewer
 This is an extension for Opera 12 and Opera Mobile Labs with Extensions for Android.
-It allows th euser to preview pdf, doc, docx, ppt, pptx, xls, xlsx, odt, pps, pages, ai, psd, dxf, svg, eps, ps, ttf, xps files in the browser.
-The extension allows to open a files with Google Docs, Zoho Sheet Viewer or Samurajdata Viewer (depending on filetype).
+It allows the user to preview pdf, doc, docx, ppt, pptx, xls, xlsx, odt, pps, pages, ai, psd, dxf, svg, eps, ps, ttf, xps files in the browser.
+The extension allows to open the files with Google Docs, Zoho Sheet Viewer or Samurajdata Viewer (depending on filetype).
 It also removes redirections from Google Web Search (in order to properly identify files and their extensions).
 This extension is based on addon Documents preview version 1.1 developed by prelud. 
 ### How it works?
